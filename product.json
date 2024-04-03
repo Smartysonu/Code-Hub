@@ -1,0 +1,48 @@
+[
+    {
+    "name": "iphone",
+    "price": 668,
+    "feature": true,
+    "company": "Apple"
+},
+{
+    "name": "iphone 10",
+    "price": 8790,
+    "feature": true,
+    "company": "Apple"
+},
+{ 
+    "name": "iphone 15",
+    "price": 8768969,
+    "feature": true,
+    "company": "Apple"
+},
+{
+    "name": "Watch",
+    "price": 8768969,
+    "feature": true,
+    "company": "Dell"
+},
+{
+    "name": "Watch",
+    "price": 8768969,
+    "feature": true,
+    "company": "Dell"
+},
+{
+    "name": "Latitude",
+    "price": 8768969,
+    "feature": true,
+    "company": "Dell"
+},
+{
+    "name": "Latitude 18",
+    "price": 768,
+    "company": "Dell"
+},
+{
+    "name": "Latitude 16",
+    "price": 6789,
+    "company": "Dell"
+}
+]
